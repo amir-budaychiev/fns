@@ -1,0 +1,5 @@
+# DS store
+.DS_Store
+
+# Ignore RubyMine files
+.idea/
